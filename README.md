@@ -1,8 +1,8 @@
 # This Repository is Under Construction!
 
-**Goal**: Analyzing my Monthly Budget Data, and getting insights.
+### **Goal**: Analyzing my Monthly Budget Data, and getting insights.
 
-**Insights to be gained**:
+### **Insights to be gained**:
 Q1. Describe the Total amount of money spent
 
 Q2. Which day accounts for the most entries?
