@@ -24,3 +24,5 @@ Q9. What are some top key-words for expenses?
 ## To-Do:
 - Make Word Clouds (w/ NLTK or make custom filters with regex)
 - Predict Weekly Spendings with Linear Regression.
+- Make Dashboards with Tableau.
+- Use Notion APIs to export Budget Database
