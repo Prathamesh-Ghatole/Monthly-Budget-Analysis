@@ -20,3 +20,7 @@ Q7. On which day & date was maximum amount of money spent?
 Q8. What's the average amount of daily spendings?
 
 Q9. What are some top key-words for expenses?
+
+## To-Do:
+- Make Word Clouds (w/ NLTK or make custom filters with regex)
+- Predict Weekly Spendings with Linear Regression.
