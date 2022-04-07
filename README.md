@@ -21,6 +21,10 @@ Q8. What's the average amount of daily spendings?
 
 Q9. What are some top key-words for expenses?
 
+Q10. What are the top categories that are paid in cash
+
+Q11. Are there any outliers in the data?
+
 ## To-Do:
 - Make Word Clouds (w/ NLTK or make custom filters with regex)
 - Predict Weekly Spendings with Linear Regression.
